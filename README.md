@@ -1,2 +1,41 @@
-# c57b3a98-startup-fundraising-vc-compe
-You're losing deals because you don't know what your competitors just raised until it's too late. Stop flying blind—automate your competitive fundraising intelligence with real-time VC monitoring and instant alerts.  The Startup Fundraising &amp; VC Competitor Monitoring and Alert N8N Workflow continuously tracks competitor funding announcements, inves
+# Startup Fundraising & VC Competitor Monitoring and Alert N8N Workflow
+
+> Workflow for Startup Fundraising
+
+You're losing deals because you don't know what your competitors just raised until it's too late. Stop flying blind—automate your competitive fundraising intelligence with real-time VC monitoring and instant alerts.
+
+The Startup Fundraising & VC Competitor Monitoring and Alert N8N Workflow continuously tracks competitor funding announcements...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/00weVd26H2k4e0033mcZs36)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
